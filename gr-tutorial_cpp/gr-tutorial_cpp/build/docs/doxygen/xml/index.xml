@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.6">
+  <compound refid="classgr_1_1tutorial__cpp_1_1my__qpsk__demod__cb" kind="class"><name>gr::tutorial_cpp::my_qpsk_demod_cb</name>
+    <member refid="classgr_1_1tutorial__cpp_1_1my__qpsk__demod__cb_1a22f7d1efa8e993800a1dc98b50005e6d" kind="typedef"><name>sptr</name></member>
+    <member refid="classgr_1_1tutorial__cpp_1_1my__qpsk__demod__cb_1a70a71f9d1a4e7821e97e41736bd033ff" kind="function"><name>make</name></member>
+  </compound>
+  <compound refid="classgr_1_1tutorial__cpp_1_1my__qpsk__demod__cb__impl" kind="class"><name>gr::tutorial_cpp::my_qpsk_demod_cb_impl</name>
+    <member refid="classgr_1_1tutorial__cpp_1_1my__qpsk__demod__cb__impl_1a4d986212ed6493aae5c3e5bd573228cd" kind="variable"><name>d_gray_code</name></member>
+    <member refid="classgr_1_1tutorial__cpp_1_1my__qpsk__demod__cb__impl_1a73c24cdccdb2d64ffb6b3a9058978797" kind="function"><name>get_minimum_distances</name></member>
+    <member refid="classgr_1_1tutorial__cpp_1_1my__qpsk__demod__cb__impl_1a23857de021c0f3ac73d8ace6b47136dc" kind="function"><name>my_qpsk_demod_cb_impl</name></member>
+    <member refid="classgr_1_1tutorial__cpp_1_1my__qpsk__demod__cb__impl_1af3d9121a16ff25117fce71156545180f" kind="function"><name>~my_qpsk_demod_cb_impl</name></member>
+    <member refid="classgr_1_1tutorial__cpp_1_1my__qpsk__demod__cb__impl_1a2eb7f11fdaf88a2aaeda0ef540bdabd5" kind="function"><name>forecast</name></member>
+    <member refid="classgr_1_1tutorial__cpp_1_1my__qpsk__demod__cb__impl_1a5fc883af7501edad84ff8597d25b6eed" kind="function"><name>general_work</name></member>
+  </compound>
+  <compound refid="namespacegr" kind="namespace"><name>gr</name>
+  </compound>
+  <compound refid="namespacegr_1_1tutorial__cpp" kind="namespace"><name>gr::tutorial_cpp</name>
+  </compound>
+  <compound refid="namespacestd" kind="namespace"><name>std</name>
+  </compound>
+  <compound refid="api_8h" kind="file"><name>api.h</name>
+    <member refid="api_8h_1a9c01864ddccdf3e73fe8f631bcadb68d" kind="define"><name>TUTORIAL_CPP_API</name></member>
+  </compound>
+  <compound refid="group__defs_8dox" kind="file"><name>group_defs.dox</name>
+  </compound>
+  <compound refid="main__page_8dox" kind="file"><name>main_page.dox</name>
+  </compound>
+  <compound refid="my__qpsk__demod__cb_8h" kind="file"><name>my_qpsk_demod_cb.h</name>
+  </compound>
+  <compound refid="my__qpsk__demod__cb__impl_8h" kind="file"><name>my_qpsk_demod_cb_impl.h</name>
+  </compound>
+  <compound refid="group__block" kind="group"><name>block</name>
+  </compound>
+  <compound refid="dir_d44c64559bbebec7f509842c48db8b23" kind="dir"><name>include</name>
+  </compound>
+  <compound refid="dir_97aefd0d527b934f1d99a682da8fe6a9" kind="dir"><name>lib</name>
+  </compound>
+  <compound refid="dir_daf293865a1e93008be496a4045e185c" kind="dir"><name>tutorial_cpp</name>
+  </compound>
+  <compound refid="indexpage" kind="page"><name>index</name>
+  </compound>
+</doxygenindex>

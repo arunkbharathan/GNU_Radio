@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.6">
+  <compound refid="classgr_1_1tutorial__cpp_1_1my__qpsk__demod__cb" kind="class"><name>gr::tutorial_cpp::my_qpsk_demod_cb</name>
+    <member refid="classgr_1_1tutorial__cpp_1_1my__qpsk__demod__cb_1a22f7d1efa8e993800a1dc98b50005e6d" kind="typedef"><name>sptr</name></member>
+    <member refid="classgr_1_1tutorial__cpp_1_1my__qpsk__demod__cb_1a70a71f9d1a4e7821e97e41736bd033ff" kind="function"><name>make</name></member>
+  </compound>
+  <compound refid="namespacegr" kind="namespace"><name>gr</name>
+  </compound>
+  <compound refid="namespacegr_1_1tutorial__cpp" kind="namespace"><name>gr::tutorial_cpp</name>
+  </compound>
+  <compound refid="namespacestd" kind="namespace"><name>std</name>
+  </compound>
+  <compound refid="api_8h" kind="file"><name>api.h</name>
+    <member refid="api_8h_1a9c01864ddccdf3e73fe8f631bcadb68d" kind="define"><name>TUTORIAL_CPP_API</name></member>
+  </compound>
+  <compound refid="my__qpsk__demod__cb_8h" kind="file"><name>my_qpsk_demod_cb.h</name>
+  </compound>
+  <compound refid="dir_d44c64559bbebec7f509842c48db8b23" kind="dir"><name>/home/arun/Desktop/gr-tutorial_cpp/gr-tutorial_cpp/include</name>
+  </compound>
+  <compound refid="dir_daf293865a1e93008be496a4045e185c" kind="dir"><name>/home/arun/Desktop/gr-tutorial_cpp/gr-tutorial_cpp/include/tutorial_cpp</name>
+  </compound>
+</doxygenindex>
